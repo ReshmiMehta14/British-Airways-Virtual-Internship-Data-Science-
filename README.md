@@ -1,5 +1,8 @@
 # British-Airways-Virtual-Internship-Data-Science-
 
+**Description:**  
+This project involves **sentiment analysis** of customer reviews using web scraping and **predicting customer buying behavior** with machine learning models. It focuses on **data cleaning, exploratory analysis, and model development**, providing hands-on experience with airline industry data. 
+
 This repository contains the essential project files and resources for your journey through the British Airways Data Science Virtual Internship, offered in collaboration with Forage.
 
 ## Overview
